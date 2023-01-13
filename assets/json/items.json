@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Grey armchair",
+        "image": "assets/2.png",
+        "price": 259,
+        "rate": 4,
+        "faviorite": true,
+        "subTitle": "Beautiful and minimalist armchair",
+        "description": "the armchair made of the highest quality materials provides comfort and an unusual aesthetic exprience. Unique uphoistery in mustard color and black legs.        "
+    },
+    {
+        "name": "Minimal lamp",
+        "image": "assets/1.png",
+        "price": 58,
+        "rate": 5,
+        "faviorite": false,
+        "subTitle": "Beautiful and minimalist armchair",
+        "description": "the armchair made of the highest quality materials provides comfort and an unusual aesthetic exprience. Unique uphoistery in mustard color and black legs.        "
+    },
+    {
+        "name": "Grey armchair",
+        "image": "assets/11.jpg",
+        "price": 259,
+        "rate": 4,
+        "faviorite": false,
+        "subTitle": "Beautiful and minimalist armchair",
+        "description": "the armchair made of the highest quality materials provides comfort and an unusual aesthetic exprience. Unique uphoistery in mustard color and black legs.        "
+    },
+    {
+        "name": "Minimal lamp",
+        "image": "assets/12.jpg",
+        "price": 58,
+        "rate": 4,
+        "faviorite": false,
+        "subTitle": "Beautiful and minimalist armchair",
+        "description": "the armchair made of the highest quality materials provides comfort and an unusual aesthetic exprience. Unique uphoistery in mustard color and black legs.        "
+    },
+    {
+        "name": "Grey armchair",
+        "image": "assets/13.jpg",
+        "price": 259,
+        "rate": 3,
+        "faviorite": true,
+        "subTitle": "Beautiful and minimalist armchair",
+        "description": "the armchair made of the highest quality materials provides comfort and an unusual aesthetic exprience. Unique uphoistery in mustard color and black legs.        "
+    },
+    {
+        "name": "Minimal lamp",
+        "image": "assets/15.jpg",
+        "price": 58,
+        "rate": 1,
+        "faviorite": true,
+        "subTitle": "Beautiful and minimalist armchair",
+        "description": "the armchair made of the highest quality materials provides comfort and an unusual aesthetic exprience. Unique uphoistery in mustard color and black legs.        "
+    }
+]
